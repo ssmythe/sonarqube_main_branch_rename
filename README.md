@@ -1,5 +1,3 @@
-
-```markdown
 # SonarQube Main Branch Rename CLI
 
 A simple Python CLI script to rename the **main branch** of a SonarQube project using the `api/project_branches/rename` endpoint (SonarQube 2025.1+ compatible).
