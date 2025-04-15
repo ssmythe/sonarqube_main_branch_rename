@@ -1,6 +1,3 @@
-Sure! Here's a simple `README.md` you can drop into your GitHub repo for this script:
-
----
 
 ```markdown
 # SonarQube Main Branch Rename CLI
